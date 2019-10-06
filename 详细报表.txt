@@ -1,0 +1,304 @@
+﻿1639
+--------[ 鲁大师 ]--------------------------------------------------------------------------------
+
+  软件:             鲁大师 5.1019.1045.509
+  时间:             2019-10-06 10:55:37
+  网站:             http://www.ludashi.com
+
+--------[ 概览 ]----------------------------------------------------------------------------------
+
+  电脑型号            X64 兼容 台式电脑
+  操作系统            Windows 10 专业版 64位 ( DirectX 12 )
+
+  处理器              英特尔 Core i5-8500 @ 3.00GHz 六核
+  主板                华硕 PRIME B360-PLUS ( CannonLake - A308 )
+  显卡                Nvidia GeForce GTX 1050 ( 2 GB / 影驰 )
+  内存                16 GB ( 金士顿 DDR4 2400MHz )
+  主硬盘              三星 SSD 860 EVO 250GB ( 250 GB / 固态硬盘 )
+  显示器              冠捷 AOC2379 2379 ( 23.1 英寸  )
+  声卡                瑞昱 ALC887 @ 英特尔 High Definition Audio 控制器
+  网卡                瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 华硕
+
+--------[ 主板 ]----------------------------------------------------------------------------------
+
+  主板型号            华硕 PRIME B360-PLUS
+  芯片组              CannonLake - A308
+  序列号              180834863604410
+  主板版本            Rev 1.xx
+  BIOS版本            American Megatrends Inc. 0802  /  BIOS程序发布日期: 06/20/2018
+  BIOS的大小          16384 KB
+
+  板载设备            视频设备 (启用)
+
+--------[ 处理器 ]--------------------------------------------------------------------------------
+
+  处理器              英特尔 Core i5-8500 @ 3.00GHz 六核
+  速度                3.00 GHz (100 MHz x 30.0)
+  处理器数量          核心数: 6 / 线程数: 6
+  插槽/插座           LGA1151
+  一级数据缓存        3 x 32 KB, 8-Way, 64 byte lines
+  一级代码缓存        3 x 32 KB, 8-Way, 64 byte lines
+  二级缓存            3 x 256 KB, 4-Way, 64 byte lines
+  三级缓存            9 MB, 12-Way, 64 byte lines
+  特征                MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, EM64T, EIST, Turbo Boost
+
+--------[ 硬盘 ]----------------------------------------------------------------------------------
+
+  产品                三星  SSD 860 EVO 250GB (固态硬盘)
+  大小                250 GB
+  硬盘已使用          共 296 次，累计 1516 小时
+  固件                RVT01B6Q
+  接口                SATA III
+  特征                S.M.A.R.T,  48-bit LBA,  NCQ
+
+  产品                希捷 ST1000DM010-2EP102
+  大小                1 TB
+  转速                7200 转/分
+  缓存                64 MB
+  硬盘已使用          共 294 次，累计 1511 小时
+  固件                CC43
+  接口                SATA III
+  数据传输率          600.00 MB/秒
+  特征                S.M.A.R.T,  APM,  48-bit LBA,  NCQ
+
+--------[ 内存 ]----------------------------------------------------------------------------------
+
+  ChannelA-DIMM1      金士顿 DDR4 2400MHz 8GB
+  制造日期            2018 年 28 周
+  型号                7F98 KHX2400C15/8G
+  序列号              4D17AD23
+  厂商                Kingston
+  模块位宽:           64 Bits
+  模块电压:           SSTL 1.2V
+
+  ChannelB-DIMM1      金士顿 DDR4 2400MHz 8GB
+  制造日期            2018 年 28 周
+  型号                7F98 KHX2400C15/8G
+  序列号              4E17DC23
+  厂商                Kingston
+  模块位宽:           64 Bits
+  模块电压:           SSTL 1.2V
+
+--------[ 显卡 ]----------------------------------------------------------------------------------
+
+  显卡                英特尔 UHD Graphics 630
+  显存                128 MB
+  制造商              华硕
+  制造商              Intel
+  驱动版本            25.20.100.6374
+  驱动日期            20181118
+
+  主显卡              Nvidia GeForce GTX 1050
+  显存                2 GB
+  制造商              影驰
+  制造商              Nvidia
+  驱动版本            23.21.13.9135
+  驱动日期            20180323
+
+--------[ 显示器 ]--------------------------------------------------------------------------------
+
+  产品                冠捷 AOC2379 2379
+  厂商                冠捷
+  固件程序日期        2017 年 44 周 (非显示器制造日期)
+  屏幕尺寸            23.1 英寸 (51 厘米 x 29 厘米)
+  显示比例            宽屏 16 : 9
+  分辨率              1920 x 1080 32 位真彩色
+  Gamma               2.20
+  电源管理            Active-Off
+
+--------[ 其他设备 ]------------------------------------------------------------------------------
+
+
+  网卡                瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller
+  制造商              华硕
+
+  声卡                瑞昱 ALC887 @ 英特尔 High Definition Audio 控制器
+
+  声卡                Nvidia nForce MCP2S PCI to ISA Bridge @ Nvidia High Definition Audio 控制器
+
+  键盘                HID 标准键盘
+  鼠标                HID-compliant 鼠标
+
+
+--------[ PCI设备 ]-------------------------------------------------------------------------------
+
+  设备                PCI 标准主机 CPU 桥
+  设备ID              3EC2
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to HOST
+  子系统制造商        ASUSTeK
+  子系统ID            86941043
+
+  设备                Xeon E3 - 1200/1500 v5/6th Gen Intel Core PCIe Controller  - 1901
+  设备ID              1901
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                UHD Graphics 630
+  设备ID              3E92
+  制造商              Intel
+  制造商ID            8086
+  类别                Display / VGA
+  子系统制造商        ASUSTeK
+  子系统ID            86941043
+
+  设备                USB 3.1 可扩展主机控制器 - 1.10 (Microsoft)
+  设备ID              A36D
+  制造商              Intel
+  制造商ID            8086
+  类别                Serial / USB (UHCI)
+  子系统制造商        ASUSTeK
+  子系统ID            86941043
+
+  设备                PCI 标准 RAM 控制器
+  设备ID              A36F
+  制造商              Intel
+  制造商ID            8086
+  类别                Memory / RAM
+  子系统制造商        ASUSTeK
+  子系统ID            86941043
+
+  设备                Management Engine Interface
+  设备ID              A360
+  制造商              Intel
+  制造商ID            8086
+  类别                Simple Communication / Other
+  子系统制造商        ASUSTeK
+  子系统ID            86941043
+
+  设备                标准 SATA AHCI 控制器
+  设备ID              A352
+  制造商              Intel
+  制造商ID            8086
+  类别                Storage / Serial ATA (AHCI 1.0)
+  子系统制造商        ASUSTeK
+  子系统ID            86941043
+
+  设备                PCI Express Root Port #21 - A32C
+  设备ID              A32C
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                PCI Express Root Port #5 - A33C
+  设备ID              A33C
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                PCI Express Root Port #9 - A330
+  设备ID              A330
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                PCI Express Root Port #11 - A332
+  设备ID              A332
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                PCI Express Root Port #12 - A333
+  设备ID              A333
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                CannonLake LPC Controller  - A308
+  设备ID              A308
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to ISA
+  子系统制造商        ASUSTeK
+  子系统ID            86941043
+
+  设备                High Definition Audio 控制器
+  设备ID              A348
+  制造商              Intel
+  制造商ID            8086
+  类别                Multimedia / Hi-definition Audio
+  子系统制造商        ASUSTeK
+  子系统ID            86C71043
+
+  设备                SMBus - A323
+  设备ID              A323
+  制造商              Intel
+  制造商ID            8086
+  类别                Serial / SMBus Controller
+  子系统制造商        ASUSTeK
+  子系统ID            86941043
+
+  设备                SPI  Controller - A324
+  设备ID              A324
+  制造商              Intel
+  制造商ID            8086
+  类别                Serial / Other
+  子系统制造商        ASUSTeK
+  子系统ID            86941043
+
+  设备                GeForce GTX 1050
+  设备ID              1C81
+  制造商              Nvidia
+  制造商ID            10DE
+  类别                Display / VGA
+  子系统制造商        Galaxy
+  子系统ID            11C01B4C
+
+  设备                High Definition Audio 控制器
+  设备ID              0FB9
+  制造商              Nvidia
+  制造商ID            10DE
+  类别                Multimedia / Hi-definition Audio
+  子系统制造商        Galaxy
+  子系统ID            11C01B4C
+
+  设备                ASM1083 PCI-E to PCI Bridge Controller
+  设备ID              1080
+  制造商              ASMedia
+  制造商ID            1B21
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                RTL8168/8111/8112 Gigabit Ethernet Controller
+  设备ID              8168
+  制造商              Realtek
+  制造商ID            10EC
+  类别                Network / Ethernet
+  子系统制造商        ASUSTeK
+  子系统ID            86771043
+
+--------[ USB设备 ]-------------------------------------------------------------------------------
+
+  描述                Pixart Optical Mouse
+  制造商ID            093A
+  产品ID              2510
+  类别                0 / 0 / 0
+  设备                PixArt USB Optical Mouse
+  版本                USB 1.1
+
+  制造商ID            1C4F
+  产品ID              0002
+  类别                0 / 0 / 0
+  设备                SIGMACHIP USB Keyboard
+  Serial              ?
+  版本                USB 1.1
+
+--------[ 传感器 ]--------------------------------------------------------------------------------
+
+  名称                NUVOTON NCT6796D
+  CPU温度             36℃
+  CPU核心             43℃
+  CPU封装             43℃
+  主板                30℃
+  显卡                27℃
+  硬盘温度            37℃
+  风扇                835转
+
